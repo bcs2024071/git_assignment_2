@@ -2,5 +2,5 @@
 
 # Name = Sohith Muthavarapu
 # Roll No. = 2024BCS-071
-# Course = BCS
+# Course = CSE
 # Semester = IV
