@@ -2,7 +2,7 @@
 
 # Name = Sohith Muthavarapu
 # Roll No. = 2024BCS-071
-# Course = CSE
+# Course = B.tech CSE
 # Semester = IV
 
 # Adarsh Gupta 2024BCS002 was here
